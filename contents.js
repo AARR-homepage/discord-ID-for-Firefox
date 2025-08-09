@@ -375,7 +375,7 @@
     });
 
     const toggleImage = document.createElement('img');
-    toggleImage.src = 'https://i.imgur.com/fS8jqh3.png';
+    toggleImage.src = 'https://i.imgur.com/GpjQwsJ.png';
     toggleImage.style.position = 'fixed';
     toggleImage.style.width = '30px';
     toggleImage.style.height = '30px';
@@ -733,7 +733,7 @@
     saveButton.addEventListener('click', saveIDsToFile);
  
     const toggleImage = document.createElement('img');
-    toggleImage.src = 'https://i.imgur.com/RaOkQOA.png';
+    toggleImage.src = 'https://i.imgur.com/bQu69bW.png';
     toggleImage.style.position = 'fixed';
     toggleImage.style.width = '30px';
     toggleImage.style.height = '30px';
@@ -1154,7 +1154,7 @@
     saveButton.addEventListener('click', saveMessageIDsToFile);
 
     const toggleImage = document.createElement('img');
-    toggleImage.src = 'https://i.imgur.com/POHPOPN.png';
+    toggleImage.src = 'https://i.imgur.com/YwpnQ7v.png';
     toggleImage.style.position = 'fixed';
     toggleImage.style.width = '30px';
     toggleImage.style.height = '30px';
